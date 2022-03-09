@@ -13,6 +13,7 @@ https://github.com/OrangeT/vim-csharp
 恐らく、そのままの可能性が高い。  
 差分は、上記URLの人が配布しているcs.vimとDIFF取ればわかる。  
 そんなに変更は加えていない。  
+もっと良い方法があれば、教えてくれると嬉しいです！  
 
 〇かおりやさんのままの状態  
 ![何もしない](https://user-images.githubusercontent.com/7385853/157431184-647ef337-d0eb-475e-af1f-f8c16e557fff.PNG)
