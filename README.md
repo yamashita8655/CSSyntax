@@ -1,5 +1,8 @@
 # CSSyntax
 
+※既知不具合
+文中に{}を2回使うと、}ここの文字もハイライトされる{
+
 https://github.com/OrangeT/vim-csharp
 
 ここの人が公開している内容を、自分用にカスタマイズ。
