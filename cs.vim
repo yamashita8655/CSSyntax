@@ -119,7 +119,7 @@ syn region	csRegion matchgroup=csPreCondit start="^\s*#\s*region.*$"
 syn match   csSpecialError	contained "\\."
 syn match   csSpecialCharError	contained "[^']"
 " 20220309 試しに、文字列途中の{var}で表示できる指定のハイライト入れてみる
-syn match   csNewStringFormat	contained "{.*}"
+syn match   csNewStringFormat	contained "{.¥{-}}"
 " [1] 9.4.4.4 Character literals
 syn match   csSpecialChar	contained +\\["\\'0abfnrtvx]+
 " unicode characters
